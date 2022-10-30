@@ -1,5 +1,5 @@
 
-#Simple message board base CodeIgniter 3
+# Simple message board base CodeIgniter 3
 
 
 Author:SilverHaysaka
