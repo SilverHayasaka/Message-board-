@@ -9,7 +9,7 @@ create table message
 	url     varchar(64),
 	title   varchar(128),
 	content varchar(512),
-	data    datetime
+	date    datetime
 );
 insert into message (name, url, title, content, date)
 values ('Nanami', '0721@cafe.com', '测试标题', '测试内容', now());
