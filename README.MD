@@ -3,4 +3,4 @@
 
 
 Author:SilverHaysaka
-Please setup application/config/database.php when you first use.
+Please setup application/config/database.php and application/config/config.php when you first use.
