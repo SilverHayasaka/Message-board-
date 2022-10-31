@@ -11,5 +11,5 @@ create table message
 	content varchar(512),
 	data    datetime
 );
-insert into message (name, url, title, content, data)
+insert into message (name, url, title, content, date)
 values ('Nanami', '0721@cafe.com', '测试标题', '测试内容', now());
